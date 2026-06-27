@@ -1,0 +1,31 @@
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Virtual environments
+
+venv/
+env/
+
+# Dataset (restricted)
+
+Delinquency_prediction_dataset.xlsx
+
+# Temporary files
+
+*.tmp
+*.log
+
+# System files
+
+.DS_Store
+Thumbs.db
+
+# Empty folders
+
+New folder/
