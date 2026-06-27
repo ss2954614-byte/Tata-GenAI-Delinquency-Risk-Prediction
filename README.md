@@ -24,25 +24,29 @@ The goal of this project is to:
 ## 📂 Repository Structure
 
 ```text
-├── notebooks/
-│   ├── EDA.ipynb
-│   └── Delinquency_Prediction.ipynb
-│
-├── reports/
-│   ├── EDA_Report.pdf
-│   └── Delinquency_Model_Plan.pdf
-│
-├── images/
-│   ├── heatmap.png
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   └── feature_importance.png
+Tata-GenAI-Delinquency-Risk-Prediction/
 │
 ├── certificate/
-│   └── Tata_GenAI_Certificate.pdf
+│   └── Completion_Certificate.pdf
 │
-├── requirements.txt
+├── images/
+│   ├── all_boxplots.png
+│   └── Confusion matrix.png
+│
+├── notebooks/
+│   ├── EDA.ipynb
+│   └── Predictive modeling.ipynb
+│
+├── reports/
+│   ├── Final_EDA_Report_Delinquency_Prediction.pdf
+│   ├── Geldium_Business_Insights_Report.pdf
+│   └── Geldium_Final_Delinquency_Plan.pdf
+│
+├── Presentation/
+│   └── Geldium_Agentic_AI_Collections_Strategy.pptx
+│
 ├── README.md
+├── requirements.txt
 └── LICENSE
 ```
 
